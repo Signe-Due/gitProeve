@@ -1,2 +1,0 @@
-matplotlib == 3.6.3
-scikit-learn == 1.2.1
